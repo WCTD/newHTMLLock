@@ -1,0 +1,38 @@
+*{
+    background-color: #1E1E1E;
+}
+
+body{
+    color: rgb(108, 57, 156);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+hr{
+    min-width: 200px;
+}
+
+.two{
+    color: royalblue;
+}
+.six{
+    color: chartreuse;
+}
+.one{
+    color: darkorchid;
+}
+.seven{
+    color: firebrick;
+}
+.four{
+    color: gold;
+}
+.five{
+    color: hotpink;
+}
+.three{
+    color: indianred;
+}
